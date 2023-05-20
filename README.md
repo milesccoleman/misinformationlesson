@@ -1,7 +1,3 @@
-
-
-
-
 <center><iframe src="https://slides.com/milescoleman/rhetoric-ethics-and-public-vaccine-science/embed" width="576" height="420" title="On Effective Communication and Vaccine Hesitancy" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 # Resources
@@ -27,3 +23,6 @@ Bedford, Daniel. ["Agnotology as a teaching tool: Learning climate science by st
 
 ### Explanation, Instructions, and Example for Making Inoculation Memes
 [Inoculating Our Social Networks Lesson and Activity](https://github.com/milesccoleman/misinformationlesson/blob/b539e52ef9e75eb756adb60bcdd3346884fa27cd/Inoculating%20our%20Own%20Social%20Networks%20Against%20Misinformation.pdf)
+
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
