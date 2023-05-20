@@ -13,6 +13,6 @@ Roozenbeek, Jon, and Sander Van der Linden. ["Fake news game confers psychologic
 ## Article on Agnotology and Some Resources for Making "News"
 Bedford, Daniel. ["Agnotology as a teaching tool: Learning climate science by studying misinformation."](https://www.tandfonline.com/doi/abs/10.1080/00221341.2010.498121) Journal of Geography 109, no. 4 (2010): 159-165.
 
-[Web Application for Easily Making "White Hat" Twitter Bots](https://cheapbotsdonequick.com/))
+[Web Application for Easily Making "White Hat" Twitter Bots](https://cheapbotsdonequick.com/)
 
-[Web Application for Making Inoculation Memes]([https://cheapbotsdonequick.com/](https://www.canva.com/create/memes/)))
+[Web Application for Making Inoculation Memes]([https://cheapbotsdonequick.com/](https://www.canva.com/create/memes/)
