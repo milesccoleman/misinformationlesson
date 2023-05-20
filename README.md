@@ -15,4 +15,16 @@ Bedford, Daniel. ["Agnotology as a teaching tool: Learning climate science by st
 
 [Web Application for Easily Making "White Hat" Twitter Bots](https://cheapbotsdonequick.com/)
 
-[Web Application for Making Inoculation Memes]([https://cheapbotsdonequick.com/](https://www.canva.com/create/memes/)
+#### Making Inoculation Memes
+##### Meme Generator
+[Canva Web Application for Making Inoculation Memes](https://www.canva.com/create/memes/)
+
+##### Fact Checking Websites
+⋅⋅*[Ap Fact Check](https://apnews.com/hub/ap-fact-check)
+⋅⋅*[FactCheck.org](https://www.factcheck.org/)
+⋅⋅*[NPR Politics Fact Check](https://www.npr.org/sections/politics-fact-check)
+⋅⋅*[PolitiFact](https://www.politifact.com/)
+⋅⋅*[Snopes](https://www.snopes.com/)
+
+##### Instructions and Example
+[More Information and Instructions for Making Inoculation Memes](https://github.com/milesccoleman/misinformationlesson/)
