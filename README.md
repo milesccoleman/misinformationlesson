@@ -25,5 +25,5 @@ Bedford, Daniel. ["Agnotology as a teaching tool: Learning climate science by st
 [Inoculating Our Social Networks Lesson and Activity](https://github.com/milesccoleman/misinformationlesson/blob/b539e52ef9e75eb756adb60bcdd3346884fa27cd/Inoculating%20our%20Own%20Social%20Networks%20Against%20Misinformation.pdf)
 
 <center><br><br><br><br><br><br><br><br><br><br><br><br>
-![QR code for misinformation lesson.](https://github.com/milesccoleman/misinformationlesson/blob/589e89232c821b1f4dec2120b737e4fc59158b70/qrcode_www.milesccoleman.com.png?raw=true)
+<img src="https://github.com/milesccoleman/misinformationlesson/blob/589e89232c821b1f4dec2120b737e4fc59158b70/qrcode_www.milesccoleman.com.png?raw=true"></img>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br></center>
