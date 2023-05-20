@@ -20,11 +20,11 @@ Bedford, Daniel. ["Agnotology as a teaching tool: Learning climate science by st
 [Canva Web Application for Making Inoculation Memes](https://www.canva.com/create/memes/)
 
 ##### Fact Checking Websites
-⋅⋅*[Ap Fact Check](https://apnews.com/hub/ap-fact-check)
-⋅⋅*[FactCheck.org](https://www.factcheck.org/)
-⋅⋅*[NPR Politics Fact Check](https://www.npr.org/sections/politics-fact-check)
-⋅⋅*[PolitiFact](https://www.politifact.com/)
-⋅⋅*[Snopes](https://www.snopes.com/)
+* [Ap Fact Check](https://apnews.com/hub/ap-fact-check)
+* [FactCheck.org](https://www.factcheck.org/)
+* [NPR Politics Fact Check](https://www.npr.org/sections/politics-fact-check)
+* [PolitiFact](https://www.politifact.com/)
+* [Snopes](https://www.snopes.com/)
 
 ##### Explanation, Instructions, and Example for Making Inoculation Memes
 [More Information and Instructions for Making Inoculation Memes]([https://github.com/milesccoleman/misinformationlesson/](https://github.com/milesccoleman/misinformationlesson/blob/b539e52ef9e75eb756adb60bcdd3346884fa27cd/Inoculating%20our%20Own%20Social%20Networks%20Against%20Misinformation.pdf))
