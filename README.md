@@ -2,7 +2,7 @@
 
 
 
-<iframe src="https://slides.com/milescoleman/rhetoric-ethics-and-public-vaccine-science/embed" width="576" height="420" title="On Effective Communication and Vaccine Hesitancy" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<center><iframe src="https://slides.com/milescoleman/rhetoric-ethics-and-public-vaccine-science/embed" width="576" height="420" title="On Effective Communication and Vaccine Hesitancy" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
 # Resources
 ## Bad News Game and Article About its Inoculation Effects
