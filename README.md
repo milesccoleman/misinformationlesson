@@ -1,6 +1,8 @@
+# Resources
+
+## Presentation Slides
 <center><iframe src="https://slides.com/milescoleman/rhetoric-ethics-and-public-vaccine-science/embed" width="100%" height="350px" title="Playing the Bad News Game" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 
-# Resources
 ## Bad News Game
 The [Bad News Game](https://pages.github.com/](https://www.getbadnews.com/en))
 
