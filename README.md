@@ -11,21 +11,3 @@ Roozenbeek, Jon, and Sander Van der Linden. ["Fake news game confers psychologic
 
 ## Article on Teaching Agnotologically
 Bedford, Daniel. ["Agnotology as a teaching tool: Learning climate science by studying misinformation."](https://www.tandfonline.com/doi/abs/10.1080/00221341.2010.498121) Journal of Geography 109, no. 4 (2010): 159-165.
-
-## Making Inoculation Memes
-### Meme Generator
-[Canva Web Application for Making Inoculation Memes](https://www.canva.com/create/memes/)
-
-### Fact Checking Websites
-* [Ap Fact Check](https://apnews.com/hub/ap-fact-check)
-* [FactCheck.org](https://www.factcheck.org/)
-* [NPR Politics Fact Check](https://www.npr.org/sections/politics-fact-check)
-* [PolitiFact](https://www.politifact.com/)
-* [Snopes](https://www.snopes.com/)
-
-### Explanation, Instructions, and Example for Making Inoculation Memes
-[Inoculating Our Social Networks Lesson and Activity](https://github.com/milesccoleman/misinformationlesson/blob/5b635153907e4373ad77496d5a94b7768476470c/Inoculating%20Our%20Social%20Networks%20Against%20Misinformation.pdf?raw=true)
-
-<center><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<img src="https://github.com/milesccoleman/misinformationlesson/blob/589e89232c821b1f4dec2120b737e4fc59158b70/qrcode_www.milesccoleman.com.png?raw=true">
-</center>
